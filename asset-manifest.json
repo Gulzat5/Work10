@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//Gulzat5.github.io/Work10/static/css/main.073c9b0a.css",
+    "main.js": "/https//Gulzat5.github.io/Work10/static/js/main.ad78cfbe.js",
+    "index.html": "/https//Gulzat5.github.io/Work10/index.html",
+    "main.073c9b0a.css.map": "/https//Gulzat5.github.io/Work10/static/css/main.073c9b0a.css.map",
+    "main.ad78cfbe.js.map": "/https//Gulzat5.github.io/Work10/static/js/main.ad78cfbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ad78cfbe.js"
+  ]
+}
